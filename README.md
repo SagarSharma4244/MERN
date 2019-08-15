@@ -38,7 +38,7 @@ React listens toDOM updates and renders the DOM tree on every change and react r
 
 ## How REDUX WORKS?
 You declare a Reducer that takes in an Action and a State, when you dispatch an action, the state gets updated and React renders the DOM with state changes.
-![REDUX](http://adsvento.in/images/react/mernstack.png)
+![REDUX](https://github.com/SagarSharma4244/MERN/blob/master/Redux.gif)
 
 
 
