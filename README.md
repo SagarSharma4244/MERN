@@ -40,6 +40,23 @@ React listens toDOM updates and renders the DOM tree on every change and react r
 You declare a Reducer that takes in an Action and a State, when you dispatch an action, the state gets updated and React renders the DOM with state changes.
 ![REDUX](https://github.com/SagarSharma4244/MERN/blob/master/Redux.gif)
 
+## When do you USE REDUX?
+When you need some Global state that is shared among different components.
+
+## What is CONTAINER COMPONENT?
+1. A Container Component is a popular way to seprate the jsx form the logic of a component.
+2. But I only use it when my component is doing more than showing sme information or passing things through the view.
+
+## What is a VIEW COMPONENT?
+It is the dumb part of a component where you simply put the passed prop into jsx.
+
+## What component make for a good  container candidate?
+1. Component with no Logic.
+2. I use container only when component becomes complex.
+
+## React JUNIOR CODE TEST
+A TODO APP using Node that allows user to add more todos.
+
 
 
 # Import Export data from MongoDB Atlas
