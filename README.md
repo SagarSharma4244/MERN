@@ -1,5 +1,7 @@
 ![MERN](http://adsvento.in/images/react/mernstack.png)
 
+# REACT Interview Questions
+
 ## Why does React needs a ROOT element?
 Since React is all Javascript, it needs an element where it can render out its own DOM element.
 
@@ -33,6 +35,10 @@ React listens toDOM updates and renders the DOM tree on every change and react r
 ## Whatis REDUX?
 1. Redux is used to storing states in react.
 2. It uses a pub/sub pattern and the idea is to store you state in a big object and use actions to change that state.
+
+## How REDUX WORKS?
+You declare a Reducer that takes in an Action and a State, when you dispatch an action, the state gets updated and React renders the DOM with state changes.
+![REDUX](http://adsvento.in/images/react/mernstack.png)
 
 
 
