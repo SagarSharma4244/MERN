@@ -1,6 +1,6 @@
 ![MERN](http://adsvento.in/images/react/mernstack.png)
 
-# REACT Interview Questions
+<h1> REACT Interview Questions</h1>
 
 ## Why does React needs a ROOT element?
 Since React is all Javascript, it needs an element where it can render out its own DOM element.
