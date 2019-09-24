@@ -29,12 +29,12 @@ They often become leagcy documentation and poeple forget to keep them updated.
 1. Pure components are faster.(doesn't use state or lifecycle enebts).
 2. I don't use classes if I am not storing a state or using a life cycle event.
 
-## Explain how RREACT RENDERING works in your own terms?
+## Explain how REACT RENDERING works in your own terms?
 React listens toDOM updates and renders the DOM tree on every change and react renders it only if there is a change/update using component diffing algotirhm.
 
 ## Whatis REDUX?
 1. Redux is used to storing states in react.
-2. It uses a pub/sub pattern and the idea is to store you state in a big object and use actions to change that state.
+2. It uses a pub/sub pattern and the idea is to store your state in a big object and use actions to change that state.
 
 ## How REDUX WORKS?
 You declare a Reducer that takes in an Action and a State, when you dispatch an action, the state gets updated and React renders the DOM with state changes.
