@@ -19,7 +19,7 @@ Perphapes for text translation.
 2. When you want to know what component is working.
 
 **Disadvantages**
-They often become legacy documentation and poeple forget to keep them updated.
+They often become legacy documentation and people forget to keep them updated.
 
 ## Which LIFE CYCLE EVENTS is the most common from your perspective?
 1. ComponentWillMount and ComponentDidMount
